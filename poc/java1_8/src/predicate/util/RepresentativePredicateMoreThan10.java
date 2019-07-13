@@ -6,7 +6,7 @@
 package predicate.util;
 
 import java.util.function.Predicate;
-import predicate.States;
+import model.States;
 
 /**
  *

@@ -5,6 +5,7 @@
  */
 package predicate;
 
+import model.States;
 import java.util.ArrayList;
 import java.util.List;
 

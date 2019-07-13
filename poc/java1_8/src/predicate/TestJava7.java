@@ -5,6 +5,7 @@
  */
 package predicate;
 
+import model.States;
 import predicate.util.PopulationComparator;
 import java.util.Collections;
 import java.util.Comparator;

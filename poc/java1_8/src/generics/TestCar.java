@@ -14,6 +14,6 @@ public class TestCar {
         
         SuzukiCar<MiniSedan> boleno=new SuzukiCar<MiniSedan>();
         SuzukiCar<MiniSedan> ignis=new SuzukiCar<MiniSedan>();
-        boleno.make(ignis);
+        //boleno.make(ignis);
     }
 }
