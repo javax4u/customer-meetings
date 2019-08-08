@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: jms
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: vdoxx
+Implementation-Vendor-Id: com.javax4u
+Build-Jdk: 1.8.0_201
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/jms
+Created-By: Maven Integration for Eclipse
+

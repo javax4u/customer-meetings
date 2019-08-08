@@ -5,6 +5,7 @@
  */
 package predicate;
 
+import util.StatesDaoJava7;
 import model.States;
 import predicate.util.PopulationComparator;
 import java.util.Collections;

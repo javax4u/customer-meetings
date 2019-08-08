@@ -7,7 +7,7 @@ package lambda;
 
 import java.util.List;
 import model.States;
-import predicate.StatesDaoJava7;
+import util.StatesDaoJava7;
 
 /**
  *
