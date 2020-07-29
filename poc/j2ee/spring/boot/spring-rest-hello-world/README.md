@@ -9,4 +9,3 @@ $ cd spring-rest-hello-world
 $ mvn spring-boot:run
 
 $ curl -v localhost:8080/books
-```
