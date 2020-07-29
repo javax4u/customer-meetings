@@ -1,4 +1,4 @@
-package net.guides.springboot2.springboot2jpacrudexample.controller;
+package com.javax4u.springboot2.springboot2jpacrudexample.controller;
 
 
 import java.util.HashMap;
@@ -20,11 +20,11 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.client.RestTemplate;
 
-import net.guides.springboot2.springboot2jpacrudexample.exception.ResourceNotFoundException;
+import com.javax4u.springboot2.springboot2jpacrudexample.exception.ResourceNotFoundException;
 import com.javax4u.springboot2.springboot2jpacrudexample.model.Address;
 import com.javax4u.springboot2.springboot2jpacrudexample.model.Employee;
-import net.guides.springboot2.springboot2jpacrudexample.repository.AmazonConstants;
-import net.guides.springboot2.springboot2jpacrudexample.repository.EmployeeRepository2;
+import com.javax4u.springboot2.springboot2jpacrudexample.repository.AmazonConstants;
+import com.javax4u.springboot2.springboot2jpacrudexample.repository.EmployeeRepository2;
 import org.springframework.web.bind.annotation.CrossOrigin;
 
 @RestController

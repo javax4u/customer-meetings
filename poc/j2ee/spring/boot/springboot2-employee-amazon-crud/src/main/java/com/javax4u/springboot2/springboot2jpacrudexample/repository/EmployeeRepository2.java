@@ -1,4 +1,4 @@
-package net.guides.springboot2.springboot2jpacrudexample.repository;
+package com.javax4u.springboot2.springboot2jpacrudexample.repository;
 
 import java.util.ArrayList;
 import java.util.Iterator;
