@@ -1,5 +1,6 @@
-package net.guides.springboot2.springboot2jpacrudexample;
+package com.javax4u.springboot2.springboot2jpacrudexample;
 
+import com.javax4u.springboot2.springboot2jpacrudexample.StartSpringBoot;
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertNotNull;
 
@@ -17,7 +18,7 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.test.context.junit4.SpringRunner;
 import org.springframework.web.client.HttpClientErrorException;
 
-import net.guides.springboot2.springboot2jpacrudexample.model.Employee;
+import com.javax4u.springboot2.springboot2jpacrudexample.model.Employee;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest(classes = StartSpringBoot.class, webEnvironment = SpringBootTest.WebEnvironment.RANDOM_PORT)
