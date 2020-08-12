@@ -1,9 +1,10 @@
-package com.javax4u.springboot2.springboot2jpacrudexample.repository;
+package com.javax4u.springboot2.repository;
 
+import com.javax4u.springboot2.model.Employee;
 import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
-import com.javax4u.springboot2.springboot2jpacrudexample.model.Employee;
+
 
 
 

@@ -1,6 +1,11 @@
-package com.javax4u.springboot2.springboot2jpacrudexample.controller;
+package com.javax4u.springboot2.controller;
 
 
+import com.javax4u.springboot2.exception.ResourceNotFoundException;
+import com.javax4u.springboot2.model.Address;
+import com.javax4u.springboot2.model.Employee;
+import com.javax4u.springboot2.repository.AmazonConstants;
+import com.javax4u.springboot2.repository.EmployeeRepository2;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
@@ -20,11 +25,6 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.client.RestTemplate;
 
-import com.javax4u.springboot2.springboot2jpacrudexample.exception.ResourceNotFoundException;
-import com.javax4u.springboot2.springboot2jpacrudexample.model.Address;
-import com.javax4u.springboot2.springboot2jpacrudexample.model.Employee;
-import com.javax4u.springboot2.springboot2jpacrudexample.repository.AmazonConstants;
-import com.javax4u.springboot2.springboot2jpacrudexample.repository.EmployeeRepository2;
 import org.springframework.web.bind.annotation.CrossOrigin;
 
 @RestController
@@ -48,7 +48,7 @@ public class EmployeeController {
 	@GetMapping(AmazonConstants.ROOT)
 	public String[] rootNode() {
 		
-		String[] returnMe = {AmazonConstants.EMPLOYEES,AmazonConstants.EMPLOYEES_BY_ID,AmazonConstants.EMPLOYEES_ADDRESS};
+		String[] returnMe = {AmazonConstants.EMPLOYEES,AmazonConstants.EMPLOYEES_BY_ID,AmazonConstants.EMPLOYEES_ADDRESS,"http://localhost/boot2-employee-20200705/swagger-ui.html"};
 		return returnMe;
 	}
 

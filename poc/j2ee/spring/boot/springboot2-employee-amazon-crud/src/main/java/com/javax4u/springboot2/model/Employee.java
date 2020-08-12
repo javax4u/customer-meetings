@@ -1,4 +1,4 @@
-package com.javax4u.springboot2.springboot2jpacrudexample.model;
+package com.javax4u.springboot2.model;
 
 public class Employee {
 

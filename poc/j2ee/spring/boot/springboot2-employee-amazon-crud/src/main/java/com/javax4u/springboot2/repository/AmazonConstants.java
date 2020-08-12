@@ -1,4 +1,4 @@
-package com.javax4u.springboot2.springboot2jpacrudexample.repository;
+package com.javax4u.springboot2.repository;
 
 public interface AmazonConstants {
 	public static final String ROOT = "/";

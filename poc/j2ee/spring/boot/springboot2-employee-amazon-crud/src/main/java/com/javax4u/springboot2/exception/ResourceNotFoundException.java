@@ -1,4 +1,4 @@
-package com.javax4u.springboot2.springboot2jpacrudexample.exception;
+package com.javax4u.springboot2.exception;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ResponseStatus;
