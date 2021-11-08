@@ -1,1 +1,1 @@
-java -jar target/boot2-employee-amazon-crud-201905.jar
+java -jar target/boot2-employee-20200705.jar

@@ -7,7 +7,7 @@
     <groupId>net.guides.springboot2</groupId>
     <artifactId>boot2-employee</artifactId>
     <version>20200705</version>
-    <packaging>war</packaging>
+    <packaging>jar</packaging>
 
     <name>springboot2-employee-amazon-crud</name>
     <description>Amazon cloud example</description>

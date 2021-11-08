@@ -1,4 +1,3 @@
 cls
-mvn clean package
-java -jar target/boot2-employee-amazon-crud-201905.jar
+mvn clean package && java -jar target/boot2-employee-20200705.jar
 
