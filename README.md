@@ -2,7 +2,7 @@
 
 ## Important Links
 
- [Jitednra Task Link](https://github.com/users/javax4u/projects/5/views/4)
+ [Jitednra View](https://github.com/users/javax4u/projects/5/views/4)
  
  [Rupesh View](https://github.com/users/javax4u/projects/5/views/5)
  
