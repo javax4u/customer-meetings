@@ -1,4 +1,4 @@
-![Flow-Diagram](/documents/screenshot-and-videos/questions-answers-sequence-diagram.PNG)
+
 
 ## Important Links
 
@@ -10,7 +10,9 @@
  
  [Kanban Board](https://github.com/users/javax4u/projects/5/views/1)
  
+ [Zoom Chaupal](https://us05web.zoom.us/j/9924190372?pwd=d3ZGTzZBejZrSVJCWkdLdHNCZVgxZz09)
  
+ ![Flow-Diagram](/documents/screenshot-and-videos/questions-answers-sequence-diagram.PNG)
  
 
 # 2019
