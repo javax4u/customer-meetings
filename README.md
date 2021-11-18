@@ -14,6 +14,8 @@
  
  ![Flow-Diagram](/documents/screenshot-and-videos/questions-answers-sequence-diagram.PNG)
  
+ [Temporary Notepad](https://docs.google.com/document/d/1AzYpWyuAPqBZxCfBYTOphAitWZEB83kCalryf86KRm0/edit?usp=sharing)
+ 
 
 # 2019
 https://docs.google.com/spreadsheets/d/1pudljdQ9aUlGqdTwRkFn4qF0D2rXakc3/edit#gid=1153492929
