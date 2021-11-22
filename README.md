@@ -12,9 +12,11 @@
  
  [Zoom Chaupal](https://us05web.zoom.us/j/9924190372?pwd=d3ZGTzZBejZrSVJCWkdLdHNCZVgxZz09)
  
+  [Temporary Notepad](https://docs.google.com/document/d/1AzYpWyuAPqBZxCfBYTOphAitWZEB83kCalryf86KRm0/edit?usp=sharing)
+ 
  ![Flow-Diagram](/documents/screenshot-and-videos/questions-answers-sequence-diagram.PNG)
  
- [Temporary Notepad](https://docs.google.com/document/d/1AzYpWyuAPqBZxCfBYTOphAitWZEB83kCalryf86KRm0/edit?usp=sharing)
+
  
 
 # 2019
