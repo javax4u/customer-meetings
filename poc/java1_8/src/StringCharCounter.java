@@ -1,4 +1,5 @@
 
+import java.util.Arrays;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
@@ -40,6 +41,10 @@ public class StringCharCounter {
 
         Map<Character, Long> mapCount = charList.stream().collect(Collectors.groupingBy(e -> e, Collectors.counting()));
         System.out.println("mapCount:"+mapCount);
+        
+        List<String> listOfFruits=Arrays.asList("Apple","Guava","Mango","Grapes","Mango","Grapes");
+        Map<String,Long> fruitCount=listOfFruits.stream().collect(Collectors.groupingBy(x -> x,Collectors.counting()));
+         System.out.println("fruitCount:"+fruitCount);
     }
 
 }
