@@ -10,7 +10,7 @@ import model.States;
 
 /**
  *
- * @author vdoxx
+ * @author rupesh kumar
  */
 public class PopulationComparator implements Comparator<States>{
     public int compare(States state1,States state2){

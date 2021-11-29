@@ -7,7 +7,7 @@ package generics;
 
 /**
  *
- * @author vdoxx
+ * @author rupesh kumar
  * @param <<error>>
  */
 public class SuzukiCar<E>{

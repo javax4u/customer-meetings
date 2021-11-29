@@ -7,7 +7,7 @@ package generics;
 
 /**
  *
- * @author vdoxx
+ * @author rupesh kumar
  */
 public class MiniSedan<E> extends Sedan{
     

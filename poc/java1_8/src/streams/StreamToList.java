@@ -11,7 +11,7 @@ import java.util.stream.Stream;
 
 /**
  *
- * @author vdoxx
+ * @author rupesh kumar
  */
 public class StreamToList {
     public static void main(String[] args) {

@@ -13,7 +13,7 @@ import java.util.function.Supplier;
 
 /**
  *
- * @author vdoxx
+ * @author rupesh kumar
  */
 public class TaskCumSupplier1 implements Supplier<Integer> {
 

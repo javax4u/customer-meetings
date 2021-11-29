@@ -7,7 +7,7 @@ package messaging.producer;
 
 /**
  *
- * @author vdoxx
+ * @author rupesh kumar
  */
 class QueueSssion {
     

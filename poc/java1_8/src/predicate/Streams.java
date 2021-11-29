@@ -18,7 +18,7 @@ import predicate.util.RepresentativePredicateMoreThan10;
 
 /**
  *
- * @author vdoxx
+ * @author rupesh kumar
  */
 public class Streams {
     

@@ -12,7 +12,7 @@ import java.util.stream.Collectors;
  */
 /**
  *
- * @author vdoxx
+ * @author rupesh kumar
  */
 public class StringCharCounter {
 

@@ -16,7 +16,7 @@ import javax.naming.InitialContext;
 
 /**
  *
- * @author vdoxx
+ * @author rupesh kumar
  */
 public class MessageProducerForProvince {
 

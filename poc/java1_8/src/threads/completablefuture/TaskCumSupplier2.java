@@ -12,7 +12,7 @@ import java.util.function.Supplier;
 
 /**
  *
- * @author vdoxx
+ * @author rupesh kumar
  */
 public class TaskCumSupplier2 implements Supplier<String> {
 

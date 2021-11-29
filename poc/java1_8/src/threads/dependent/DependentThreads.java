@@ -12,7 +12,7 @@ import java.util.concurrent.Future;
 
 /**
  *
- * @author vdoxx
+ * @author rupesh kumar
  */
 public class DependentThreads {
 

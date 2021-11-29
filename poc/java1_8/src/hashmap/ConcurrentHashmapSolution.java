@@ -12,7 +12,7 @@ import java.util.concurrent.ConcurrentHashMap;
 
 /**
  *
- * @author vdoxx
+ * @author rupesh kumar
  */
 public class ConcurrentHashmapSolution {
 

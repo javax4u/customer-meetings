@@ -7,7 +7,7 @@ package util;
 
 /**
  *
- * @author vdoxx
+ * @author rupesh kumar
  */
 public class Javax4uUtil {
     

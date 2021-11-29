@@ -14,7 +14,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author vdoxx
+ * @author rupesh kumar
  */
 public class PrintOddThenEven {
 

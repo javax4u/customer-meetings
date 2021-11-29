@@ -7,7 +7,7 @@ package generics;
 
 /**
  *
- * @author vdoxx
+ * @author rupesh kumar
  */
 public class Sedan <E>extends Car{
     

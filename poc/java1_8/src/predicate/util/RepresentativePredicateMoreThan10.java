@@ -10,7 +10,7 @@ import model.States;
 
 /**
  *
- * @author vdoxx
+ * @author rupesh kumar
  */
 public class RepresentativePredicateMoreThan10 implements Predicate<States>{
 

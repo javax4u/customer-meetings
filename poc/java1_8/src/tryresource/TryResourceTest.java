@@ -12,7 +12,7 @@ import java.io.IOException;
 
 /**
  *
- * @author vdoxx
+ * @author rupesh kumar
  */
 public class TryResourceTest {
 

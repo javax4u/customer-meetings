@@ -8,14 +8,14 @@ package threads.completablefuture;
 import java.util.concurrent.CompletableFuture;
 /**
  *
- * @author vdoxx
+ * @author rupesh kumar
  */
 
 import java.util.concurrent.ExecutionException;
 
 /**
  *
- * @author vdoxx
+ * @author rupesh kumar
  */
 
 public class Manager {

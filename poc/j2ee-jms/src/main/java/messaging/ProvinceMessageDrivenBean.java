@@ -14,7 +14,7 @@ import javax.jms.MessageListener;
 import javax.jms.TextMessage;
 /**
  *
- * @author vdoxx
+ * @author rupesh kumar
  */
 public class ProvinceMessageDrivenBean implements MessageListener{
 

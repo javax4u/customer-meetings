@@ -7,7 +7,7 @@ package generics;
 
 /**
  *
- * @author vdoxx
+ * @author rupesh kumar
  */
 public class MahindraCar<E> {
      public void make(Sedan<? super E> param){

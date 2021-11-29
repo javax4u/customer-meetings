@@ -7,7 +7,7 @@ package thread.deadlock;
 
 /**
  *
- * @author vdoxx
+ * @author rupesh kumar
  */
 public class ThreadLock {
 

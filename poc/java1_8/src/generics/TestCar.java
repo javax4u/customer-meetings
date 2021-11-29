@@ -7,7 +7,7 @@ package generics;
 
 /**
  *
- * @author vdoxx
+ * @author rupesh kumar
  */
 public class TestCar {
     public static void main(String[] args) {

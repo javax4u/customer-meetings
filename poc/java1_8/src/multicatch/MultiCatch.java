@@ -9,7 +9,7 @@ import java.sql.SQLException;
 
 /**
  *
- * @author vdoxx
+ * @author rupesh kumar
  */
 public class MultiCatch {
 

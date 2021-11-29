@@ -9,7 +9,7 @@ import java.util.function.Predicate;
 
 /**
  *
- * @author vdoxx
+ * @author rupesh kumar
  */
 public class StatesWithDPredicate implements Predicate<String>{
 

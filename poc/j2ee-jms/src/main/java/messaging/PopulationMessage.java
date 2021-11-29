@@ -7,7 +7,7 @@ package messaging;
 
 /**
  *
- * @author vdoxx
+ * @author rupesh kumar
  */
 public class PopulationMessage {
     
