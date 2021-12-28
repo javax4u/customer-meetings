@@ -1,1 +1,154 @@
-<mxfile host="app.diagrams.net" modified="2021-12-28T11:12:13.305Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36" version="16.1.0" etag="JnkF-2ytI6Z7-35jceGa" type="github"><diagram id="gKKqQDOsfMkNKCjAnSBX">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-12-28T14:51:01.037Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36" etag="_9ZUNi2PBLNZpEJNoIYU" version="16.1.0" type="github">
+  <diagram id="gKKqQDOsfMkNKCjAnSBX" name="Page-1">
+    <mxGraphModel dx="873" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="GYgSNzblk2XsmDlHRUZl-1" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="10" y="360" as="sourcePoint" />
+            <mxPoint x="1260" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GYgSNzblk2XsmDlHRUZl-2" value="28 DEC - Tue" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="10" y="370" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GYgSNzblk2XsmDlHRUZl-5" value="29 DEC - Wed" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="120" y="370" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GYgSNzblk2XsmDlHRUZl-6" value="30 DEC - Thu" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="240" y="370" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GYgSNzblk2XsmDlHRUZl-7" value="28 DEC -&amp;nbsp; Fri" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="345" y="370" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GYgSNzblk2XsmDlHRUZl-8" value="Friday-Release" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="360" y="420" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GYgSNzblk2XsmDlHRUZl-9" value="backup in zip format &lt;br&gt;and merge to week" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="360" y="460" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GYgSNzblk2XsmDlHRUZl-10" value="day branch / readme.md" style="endArrow=async;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;endFill=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="20" y="270" as="sourcePoint" />
+            <mxPoint x="500" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GYgSNzblk2XsmDlHRUZl-11" value="Rupesh" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="20" y="180" width="20" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GYgSNzblk2XsmDlHRUZl-12" value="Apoorv" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="20" y="290" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GYgSNzblk2XsmDlHRUZl-13" value="" style="endArrow=oval;html=1;rounded=0;dashed=1;endFill=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="30" y="300" as="sourcePoint" />
+            <mxPoint x="60" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GYgSNzblk2XsmDlHRUZl-15" value="" style="endArrow=oval;html=1;rounded=0;dashed=1;endFill=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="50" y="220" as="sourcePoint" />
+            <mxPoint x="70" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GYgSNzblk2XsmDlHRUZl-16" value="Rupesh" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="140" y="170" width="20" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GYgSNzblk2XsmDlHRUZl-17" value="Apoorv" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="140" y="290" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GYgSNzblk2XsmDlHRUZl-18" value="" style="endArrow=oval;html=1;rounded=0;dashed=1;endFill=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="300" as="sourcePoint" />
+            <mxPoint x="180" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GYgSNzblk2XsmDlHRUZl-19" value="" style="endArrow=oval;html=1;rounded=0;dashed=1;endFill=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="221.25" as="sourcePoint" />
+            <mxPoint x="190" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GYgSNzblk2XsmDlHRUZl-20" value="Rupesh" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="260" y="170" width="20" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GYgSNzblk2XsmDlHRUZl-21" value="Apoorv" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="260" y="300" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GYgSNzblk2XsmDlHRUZl-22" value="" style="endArrow=oval;html=1;rounded=0;dashed=1;endFill=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="320" as="sourcePoint" />
+            <mxPoint x="330" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GYgSNzblk2XsmDlHRUZl-23" value="" style="endArrow=oval;html=1;rounded=0;dashed=1;endFill=1;" edge="1" parent="1" source="GYgSNzblk2XsmDlHRUZl-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="330" as="sourcePoint" />
+            <mxPoint x="310" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GYgSNzblk2XsmDlHRUZl-24" value="Rupesh" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="370" y="170" width="20" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GYgSNzblk2XsmDlHRUZl-25" value="Apoorv" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="370" y="300" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GYgSNzblk2XsmDlHRUZl-26" value="" style="endArrow=oval;html=1;rounded=0;dashed=1;endFill=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="310" as="sourcePoint" />
+            <mxPoint x="420" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GYgSNzblk2XsmDlHRUZl-27" value="" style="endArrow=oval;html=1;rounded=0;dashed=1;endFill=1;" edge="1" parent="1" source="GYgSNzblk2XsmDlHRUZl-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="320" as="sourcePoint" />
+            <mxPoint x="430" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GYgSNzblk2XsmDlHRUZl-28" value="29 DEC -&amp;nbsp; Sat" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="470" y="370" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GYgSNzblk2XsmDlHRUZl-29" value="" style="endArrow=oval;html=1;rounded=0;dashed=1;endFill=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="270" as="sourcePoint" />
+            <mxPoint x="540" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GYgSNzblk2XsmDlHRUZl-30" value="30 DEC -&amp;nbsp; Sun" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="590" y="370" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GYgSNzblk2XsmDlHRUZl-31" value="31 DEC -&amp;nbsp; Mon" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="720" y="370" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GYgSNzblk2XsmDlHRUZl-32" value="day branch / readme.md" style="endArrow=async;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;endFill=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="760" y="270" as="sourcePoint" />
+            <mxPoint x="1200" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GYgSNzblk2XsmDlHRUZl-33" value="" style="endArrow=oval;html=1;rounded=0;dashed=1;endFill=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="750" y="360" as="sourcePoint" />
+            <mxPoint x="760" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GYgSNzblk2XsmDlHRUZl-34" value="" style="endArrow=oval;html=1;rounded=0;dashed=1;endFill=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1200" y="270" as="sourcePoint" />
+            <mxPoint x="1240" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GYgSNzblk2XsmDlHRUZl-35" value="Weekly-branch" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="360" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GYgSNzblk2XsmDlHRUZl-36" value="Friday-Release" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="420" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GYgSNzblk2XsmDlHRUZl-38" value="update readme.md file and &lt;br&gt;add week-startdate-endDate.txt" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="580" y="405" width="180" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
