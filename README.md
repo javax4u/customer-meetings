@@ -2,7 +2,7 @@
 
 # 2022
 
-[Jenkins Dashboard](https://github.com/users/apoorvpandey-ap/projects/2/views/1)
+[Jenkins Dashboard](https://github.com/users/javax4u/projects/10/views/1?layout=board)
 
 [Question Bank](https://docs.google.com/spreadsheets/d/1pudljdQ9aUlGqdTwRkFn4qF0D2rXakc3/edit#gid=1153492929)
 
